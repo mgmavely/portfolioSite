@@ -18,17 +18,15 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I am currently in my second year of studies at the \
-  University of Waterloo, for my Bachelor of Computer Science.  \
-  For the upcoming term, I\'m looking for a co-op placement where I \
-  can show my aptitute for developing high quality software\
-   with thorough commenting.',
-  paragraphTwo: 'Some of the languages I use for development are:\
-  Python, C, C++, C#, HTML/CSS, JavaScript, and Git.  Additionally,\
-  I am able to learn new languages efficiently from my experience with\
-  hackathons such as: YHacks, DeltaHacks, and NewHacks.',
-  paragraphThree: 'If you\'re interested, I have added my resume\
-  below',
+  paragraphOne: 'I am a second year student enrolled at the University of Waterloo Bachelor of Computer Science  \
+  I am a second year student enrolled at the University of Waterloo Bachelor of Computer Science \
+  placement.  The placement will provide a platform to showcase my aptitude and insight for developing \
+  placement.  The placement will provide a platform to showcase my aptitude and insight for developing',
+  paragraphTwo: ' Python, C, C++, C#, HTML/CSS, JavaScript, and Git are some of the languages I am versed in for \
+  application within the software development field.  In addition, I am learning new languages from my \
+  experiences from advanced hackathons such as: YHacks, DelaHacks, and NewHacks.',
+  paragraphThree: 'I believe my skills and experiences can be of value added to your organization or company.  Please feel \
+  free to browse my resume provided below where my contact details are also available.',
   resume: 'https://drive.google.com/file/d/12h248DSMHGzs-ewSv4aIICl29TxY7kDB/view?usp=sharing', // if no resume, the button will not show up
 };
 
@@ -38,12 +36,10 @@ export const projectsData = [
     id: nanoid(),
     img: 'project1.jpg',
     title: 'Rover Software',
-    info: 'Developing software for rover created with Raspberry Pi zero. \
-    As project continues to mature, the software created for the rover will\
-    continue to improve its efficiency and scalability.  As of now, the early \
-    development of a movable rover is accompanied by a script that allows for \
-    manual control with keyboard via SSH.  Future development will include\
-    automation for rover movement with the use of ultrasonic sensors.',
+    info: 'Currently developing software for Rover created using Raspberry Pi Zero. \
+     As the project continues to grow, the software created will continue to improve its efficiency and scalability. As it stands now, \
+     the early development of a movable rover is accompanied by a script that allows for manual control from a \
+     keyboard via SSH. Future development plans will include automation for rover movement with the use of ultrasonic sensors. ',
     info2: '',
     url: 'https://github.com/mgmavely/RobotSoftware',
   },
@@ -51,10 +47,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project2.jpg',
     title: 'Kanye West Simulator.exe',
-    info: 'A 3D runner-type game developed using the Unity3D game engine\
-    along side C# scripts.  The game hosts a variety of features ranging from\
-    endless levels, to save functionality.  Kanye West Simulator.exe story of a seemingly omnipotent\
-    voice within the game aimlessly trying to communicate with the player.  ',
+    info: 'Set as a 3D runner-type game, it was developed using the Unity3D game engine, along with C# scripts. The game hosts a variety of features ranging from endless levels to save functionalities. \
+     The Kanye West Simulator.exe presents story of a seemingly omnipotent voice within the game continually trying to communicate with the player.',
     info2: '',
     url: 'https://github.com/mgmavely/unityGame',
   },
@@ -62,10 +56,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project3.jpg',
     title: 'Python Caption Wrapper',
-    info: 'Created software that aided in the video captioning workflow for \
-    lecture videos.  Script was written in python and utilized the FFMpeg and Pickle library\
-    for video encoding tools and save functionality respectively.  Source code unavailable for\
-    public as it is the property of the University of Waterloo. ',
+    info: 'A newly created software that aids in video captioning workflow for lecture videos. The script was written using Python and utilized the FFMpeg and Pickle library for both video encoding and save functionality tools respectively. The source code is unavailable for public viewing as it is the property of the University of Waterloo.',
     info2: '',
     url: 'https://github.com/mgmavely',
   },
