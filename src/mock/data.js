@@ -26,7 +26,7 @@ export const aboutData = {
   paragraphTwo: 'Some of the languages I use for development are:\
   Python, C, C++, C#, HTML/CSS, JavaScript, and Git.  Additionally,\
   I am able to learn new languages efficiently from my experience with\
-  hackathons such as: YHacks, DelaHacks, and NewHacks.',
+  hackathons such as: YHacks, DeltaHacks, and NewHacks.',
   paragraphThree: 'If you\'re interested, I have added my resume\
   below',
   resume: 'https://drive.google.com/file/d/12h248DSMHGzs-ewSv4aIICl29TxY7kDB/view?usp=sharing', // if no resume, the button will not show up
