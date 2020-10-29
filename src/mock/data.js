@@ -20,7 +20,6 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'I am a second year student enrolled at the University of Waterloo Bachelor of Computer Science  \
   I am a second year student enrolled at the University of Waterloo Bachelor of Computer Science \
-  placement.  The placement will provide a platform to showcase my aptitude and insight for developing \
   placement.  The placement will provide a platform to showcase my aptitude and insight for developing',
   paragraphTwo: ' Python, C, C++, C#, HTML/CSS, JavaScript, and Git are some of the languages I am versed in for \
   application within the software development field.  In addition, I am learning new languages from my \
