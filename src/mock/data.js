@@ -18,15 +18,15 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I am a second year student enrolled at the University of Waterloo Bachelor of Computer Science  \
+  paragraphOne: 'I am a third year student enrolled at the University of Waterloo Bachelor of Computer Science  \
   I am a second year student enrolled at the University of Waterloo Bachelor of Computer Science \
   placement.  The placement will provide a platform to showcase my aptitude and insight for developing',
-  paragraphTwo: ' Python, C, C++, C#, HTML/CSS, JavaScript, and Git are some of the languages I am versed in for \
+  paragraphTwo: ' C++, Python, HTML/CSS, JavaScript, Bash and Git are some of the languages I am versed in for \
   application within the software development field.  In addition, I am learning new languages from my \
   experiences from advanced hackathons such as: YHacks, DelaHacks, and NewHacks.',
   paragraphThree: 'I believe my skills and experiences can be of value added to your organization or company.  Please feel \
   free to browse my resume provided below where my contact details are also available.',
-  resume: 'https://drive.google.com/file/d/1PgKrCAJEEX5vnpIrue_NZs3W8B0kB4dS/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1D2Y_n5XkxS69S4GZEnLz3X3AbwMl8f0l/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -34,30 +34,31 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project1.jpg',
-    title: 'Rover Software',
-    info: 'Currently developing software for Rover created using Raspberry Pi Zero. \
-     As the project continues to grow, the software created will continue to improve its efficiency and scalability. As it stands now, \
-     the early development of a movable rover is accompanied by a script that allows for manual control from a \
-     keyboard via SSH. Future development plans will include automation for rover movement with the use of ultrasonic sensors. ',
+    title: 'Apple Music to Spotify Playlist',
+    info: 'A simple text-based user interface that allows the transfer of playlists from. \
+     Apple Music to Spotify.  When prompted, user can enter the link to an Apple Music playlist and soon after,\
+     A playlist on spotify will be created with all available songs from both platforms with all playlist metadata transferred. \
+     Integrated via python script and requests library in conjuction with Spotify for Developers. ',
     info2: '',
-    url: 'https://github.com/mgmavely/RobotSoftware',
+    url: 'https://github.com/mgmavely/apple-music-to-spotify',
   },
   {
     id: nanoid(),
     img: 'project2.jpg',
-    title: 'Kanye West Simulator.exe',
-    info: 'Set as a 3D runner-type game, it was developed using the Unity3D game engine, along with C# scripts. The game hosts a variety of features ranging from endless levels to save functionalities. \
-     The Kanye West Simulator.exe presents story of a seemingly omnipotent voice within the game continually trying to communicate with the player.',
+    title: 'Personal Discord Bot',
+    info: 'Developed a Discord Bot for proof of concept utilization with a test server.  Created as a node.js project,\
+     the Personal Discord Bot is primarily coded in JavaScript, and utilizes the DiscordAPI for access to Discord Bot controls.\
+     Functionality of the bot is expanding overtime and plans for a public release are seen in the near future. ',
     info2: '',
-    url: 'https://github.com/mgmavely/unityGame',
+    url: 'https://github.com/mgmavely/',
   },
   {
     id: nanoid(),
     img: 'project3.jpg',
-    title: 'Python Caption Wrapper',
-    info: 'A newly created software that aids in video captioning workflow for lecture videos. The script was written using Python and utilized the FFMpeg and Pickle library for both video encoding and save functionality tools respectively. The source code is unavailable for public viewing as it is the property of the University of Waterloo.',
+    title: 'Top 10 Movies',
+    info: 'Built a Flask based Web Application with the following libraries: WTForms, SQLite, and SQLAlchemy.  It allows users to populate site with their 10 favourite movies via search, and uses the IMDB api to gather metadata for UI',
     info2: '',
-    url: 'https://github.com/mgmavely',
+    url: 'https://github.com/mgmavely/top-10-movies',
   },
 ];
 
@@ -65,7 +66,7 @@ export const projectsData = [
 export const contactData = {
   cta: 'Feel free to contact me, I\'d love to keep in touch!',
   btn: 'E-mail',
-  email: 'mgmmavely@gmail.com',
+  email: 'mmavely@uwaterloo.ca',
 };
 
 // FOOTER DATA
