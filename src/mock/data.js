@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a third year student enrolled at the University of Waterloo Bachelor of Computer Science  \
   I am a second year student enrolled at the University of Waterloo Bachelor of Computer Science \
   placement.  The placement will provide a platform to showcase my aptitude and insight for developing',
-  paragraphTwo: ' C++, Python, HTML/CSS, JavaScript, Bash and Git are some of the languages I am versed in for \
+  paragraphTwo: ' C++, Python, JavaScript, HTML/CSS, Bash and Git are some of the languages I am versed in for \
   application within the software development field.  In addition, I am learning new languages from my \
   experiences from advanced hackathons such as: YHacks, DelaHacks, and NewHacks.',
   paragraphThree: 'I believe my skills and experiences can be of value added to your organization or company.  Please feel \
