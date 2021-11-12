@@ -50,7 +50,7 @@ export const projectsData = [
      the Personal Discord Bot is primarily coded in JavaScript, and utilizes the DiscordAPI for access to Discord Bot controls.\
      Functionality of the bot is expanding overtime and plans for a public release are seen in the near future. ',
     info2: '',
-    url: 'https://github.com/mgmavely/',
+    url: 'https://github.com/mgmavely/Personal-Discord-Bot',
   },
   {
     id: nanoid(),
