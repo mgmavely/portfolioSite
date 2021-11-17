@@ -48,7 +48,8 @@ export const projectsData = [
     title: 'Personal Discord Bot',
     info: 'Developed a Discord Bot for proof of concept utilization with a test server.  Created as a node.js project,\
      the Personal Discord Bot is primarily coded in JavaScript, and utilizes the DiscordAPI for access to Discord Bot controls.\
-     Functionality of the bot is expanding overtime and plans for a public release are seen in the near future. ',
+     Current functionality features some reaction-based actions as well as an asychronous TicTacToe game that can be played with 2 \
+     users in the server.',
     info2: '',
     url: 'https://github.com/mgmavely/Personal-Discord-Bot',
   },
