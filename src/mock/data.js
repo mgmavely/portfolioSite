@@ -33,17 +33,6 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project1.jpg',
-    title: 'Apple Music to Spotify Playlist',
-    info: 'A simple text-based user interface that allows the transfer of playlists from. \
-     Apple Music to Spotify.  When prompted, user can enter the link to an Apple Music playlist and soon after,\
-     A playlist on spotify will be created with all available songs from both platforms with all playlist metadata transferred. \
-     Integrated via python script and requests library in conjuction with Spotify for Developers. ',
-    info2: '',
-    url: 'https://github.com/mgmavely/apple-music-to-spotify',
-  },
-  {
-    id: nanoid(),
     img: 'project2.jpg',
     title: 'Personal Discord Bot',
     info: 'Developed a Discord Bot for proof of concept utilization with a test server.  Created as a node.js project,\
@@ -55,9 +44,20 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'project1.jpg',
+    title: 'Apple Music Playlist to Spotify',
+    info: 'A simple text-based user interface that allows the transfer of playlists from. \
+     Apple Music to Spotify.  When prompted, user can enter the link to an Apple Music playlist and soon after,\
+     A playlist on spotify will be created with all available songs from both platforms with all playlist metadata transferred. \
+     Integrated via python script and requests library in conjuction with Spotify for Developers. ',
+    info2: '',
+    url: 'https://github.com/mgmavely/apple-music-to-spotify',
+  },
+  {
+    id: nanoid(),
     img: 'project3.jpg',
     title: 'Top 10 Movies',
-    info: 'Built a Flask based Web Application with the following libraries: WTForms, SQLite, and SQLAlchemy.  It allows users to populate site with their 10 favourite movies via search, and uses the IMDB api to gather metadata for UI',
+    info: 'Built a Flask based Web Application with the following libraries: WTForms, SQLite, and SQLAlchemy.  It allows users to populate site with their 10 favourite movies via search, and uses the IMDB API to gather metadata for UI.  Users can add/delete/change entries into their list of favourite movies with a few clicks.',
     info2: '',
     url: 'https://github.com/mgmavely/top-10-movies',
   },
