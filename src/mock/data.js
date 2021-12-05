@@ -18,8 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I am a third year student enrolled at the University of Waterloo Bachelor of Computer Science  \
-  I am a second year student enrolled at the University of Waterloo Bachelor of Computer Science. \
+  paragraphOne: 'I am a third year student enrolled at the University of Waterloo Bachelor of Computer Science \
   This portfolio site will provide a platform to showcase my aptitude and insight for software development.',
   paragraphTwo: ' C++, Python, JavaScript, HTML/CSS, Bash and Git are some of the languages I am versed in for \
   application within the software development field.  In addition, I am learning new languages from my \
