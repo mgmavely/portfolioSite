@@ -32,6 +32,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'project3.png',
+    title: 'Hands Off',
+    info: 'Contributed to the development of a Covid-19 awareness application that tracks the rate of how many times a user \
+    touches their face per minute. Worked with the team to delegate tasks and manage timelines and developed a script that uses opencv and haar-cascade algorithm to detect facial elements to determine if your hands contacted your face.  Won the MED Challenge for DeltaHacks 8.',
+    info2: '',
+    url: 'https://devpost.com/software/hands-off-7p0mc5',
+  },
+  {
+    id: nanoid(),
     img: 'project2.jpg',
     title: 'Personal Discord Bot',
     info: 'Developed a Discord Bot for proof-of-concept utilization with a test server.  Created as a node.js project,\
@@ -51,14 +60,6 @@ export const projectsData = [
      Integrated via Python script and requests library in conjunction with Spotify for Developers. ',
     info2: '',
     url: 'https://github.com/mgmavely/apple-music-to-spotify',
-  },
-  {
-    id: nanoid(),
-    img: 'project3.jpg',
-    title: 'Top 10 Movies',
-    info: 'Built a Flask based Web Application with the following libraries: WTForms, SQLite, and SQLAlchemy.  It allows users to populate site with their 10 favorite movies via search, and uses the IMDB API to gather metadata for UI.  Users can add/delete/change entries into their list of favourite movies with a few clicks.',
-    info2: '',
-    url: 'https://github.com/mgmavely/top-10-movies',
   },
 ];
 
