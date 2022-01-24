@@ -25,7 +25,7 @@ export const aboutData = {
   experiences from advanced hackathons such as: YHacks, DeltaHacks, and NewHacks.',
   paragraphThree: 'I believe my skills and experiences can be of value added to your organization or company.  Please feel \
   free to browse my resume provided below where my contact details are also available.',
-  resume: 'https://drive.google.com/file/d/1h_SuqQf-JXOALpVMfilCXKGsZdr-7AM0/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1Op86Sdi4wnCo4fG_5e3bY3eTKh1VVsS2/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
