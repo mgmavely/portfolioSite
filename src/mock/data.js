@@ -35,7 +35,7 @@ export const projectsData = [
     img: 'project3.jpg',
     title: 'Hands Off',
     info: 'Contributed to the development of a Covid-19 awareness application that tracks the rate of how many times a user \
-    touches their face per minute. Worked with the team to delegate tasks and manage timelines and developed a script that uses OpenCV and Haar-Cascade algorithms to detect facial elements to determine if your hands contacted your face.  Winner of the MED Challenge for DeltaHacks 8.',
+    touches their face per minute. Worked with the team to delegate tasks and manage timelines.  Developed a script that uses OpenCV and Haar-Cascade algorithms to detect facial elements to determine if your hands contacted your face.  Winner of the MED Challenge for DeltaHacks 8.',
     info2: '',
     url: 'https://devpost.com/software/hands-off-7p0mc5',
   },
